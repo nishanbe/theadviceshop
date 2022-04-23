@@ -15,6 +15,8 @@ include("inc_nav.php"); ?>
   <p>Here are some examples of some of the great advice we provide...</p>
   <?php 
   $sql = "select * from quotes";
+
+  /** @var TYPE_NAME $dbh */
   $result = $dbh->query($sql);
   foreach ($result as $row) {
 	//  print_r($row);
