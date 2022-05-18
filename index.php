@@ -21,7 +21,7 @@ include("inc_nav.php"); ?>
 
     <p><a href="subscribe.php">Subscribe now</a> to our professional advice service.</p>
 
-    <p>For all advice related to:<img src="../theadviceshop/images/womanHeadset.jpg" alt="" width="310" height="200"
+    <p>For all advice related to:<img src="../theadviceshop-sass/images/womanHeadset.jpg" alt="" width="310" height="200"
                                       class="rightImage"/></p>
     <ul>
         <li>Learning</li>

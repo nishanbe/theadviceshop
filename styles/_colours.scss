@@ -1,7 +1,8 @@
 // colours
-$contrast-background-color: #565656;
+$contrast-background-color: #163455;
 $content-background-color: #FFFFFF;
-$feature-color: #719B3F;
+$highlight : #C6A75D;
+$feature-color: #6e95a9;
 //$feature-color-highlight: #A8CFB1;
-$feature-color-highlight: lighten($feature-color, 30%);
+$feature-color-highlight: lighten($contrast-background-color, 50%);
 $body-color: $content-background-color;
